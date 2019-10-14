@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/jforum_src_war_exploded/lib/servlet-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/jforum_src_war_exploded/lib/junit.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/jforum_src_war_exploded/lib/jargs-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
